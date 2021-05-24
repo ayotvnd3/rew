@@ -1,0 +1,28 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 1;
+    box-sizing: inherit;
+    background: rosybrown;
+}
+
+.html{
+    box-sizing: border-box;
+    color: white;
+}
+
+.mission-section{
+    padding: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 30px;
+}
+
+footer{
+    background: #000;
+    color: #fff;
+    padding: 15px 50px;
+    text-align: center;
+    margin: 30%;
+
+    }

@@ -1,0 +1,41 @@
+.column{
+    float: left;
+    width: 30;
+    margin-bottom: 12px;
+    padding: 0 8px;
+}
+
+footer{
+    background: #000;
+    color: #fff;
+    padding: 15px 50px;
+    text-align: center;
+    margin: 30%;
+    float: inline-end;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 1;
+    box-sizing: inherit;
+    background: rosybrown;
+}
+
+.TEAM-section{
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+}
+
+.column{
+    float: left;
+    width: 30;
+    margin-bottom: 12px;
+    padding: 0 8px;
+}
+
+.container{
+    padding: 0 60px;
+    float: centre;
+}

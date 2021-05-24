@@ -1,0 +1,44 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 1;
+    box-sizing: inherit;
+    background: linear-gradient(#8b585f, #0a0a0a);
+}
+
+.html{
+    box-sizing: border-box;
+}
+
+.column{
+    float: left;
+    width: 30;
+    margin-bottom: 12px;
+    padding: 0 8px;
+}
+
+.card{
+    margin: 10px;
+}
+
+.button{
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+.container{
+    padding: 0 50px;
+}
+
+.contact-section{
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+}

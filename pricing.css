@@ -1,0 +1,44 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 1;
+    box-sizing: inherit;
+    background: rosybrown;
+}
+
+.button{
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    
+}
+.html{
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 0 50px;
+    float: left;
+    text-align: center;
+    
+}
+
+.card{
+        margin: 10px;
+    }
+
+h2{
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+ }
+p{
+    
+    text-align: center;
+    padding: 0 490px;
+}
